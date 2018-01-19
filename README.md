@@ -4,7 +4,6 @@ Welcome to the Habitat Sample Node App!
 
 ![habitat-sample-node-app](https://user-images.githubusercontent.com/446285/31078915-96033340-a749-11e7-906c-7861521894fc.png)
 
-
 ## Instructions
 
 To practice packaging/running this app with Habitat
